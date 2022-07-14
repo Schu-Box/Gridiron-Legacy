@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 621659730270d244991caf1100ad3bc4, type: 3}
+  m_Name: Welcome - Season 1
+  m_EditorClassIdentifier: 
+  eventTriggers: 00000000
+  eventTriggerValue:
+  - 1
+  title: Welcome Back!
+  description: Now that you've been in charge for a season, expectations for the
+    team are growing. Be sure to assign your rookie draft choice to a position on
+    the team. Best of luck, coach.
+  weeksBetweenRepeat: 0
+  weeksUntilRepeat: 0
+  options:
+  - description: I'll open my roster menu and assign them.
+    optionResults: 
+    optionResultValues: []
+  impactedTeam:
+    playerControlled: 1
+    the: 0
+    cityName: Johannesburg
+    mascotName: Crabs
+    gold: 6
+    fanApproval: 0.9508274
+    colorPrimary: {r: 0.15254426, g: 0.18680969, b: 0.18669918, a: 1}
+    championshipSeasons: 

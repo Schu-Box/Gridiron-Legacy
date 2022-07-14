@@ -1,0 +1,85 @@
+Blono
+Brookline
+Framingham
+Champaign
+Falun
+Stugan
+Stockholm
+Chicago
+Boston
+Carcassonne
+Green Bay
+Denver
+Peoria
+New York
+Los Angelos
+San Fransisco
+London
+Berlin
+Wellington
+Wolverhampton
+Manchester
+Kansas City
+Baltimore
+Toronto
+Montreal
+Vancouver
+Memphis
+Anchorage
+San Juan
+Santo Domingo
+Havana
+Mexico City
+Rio De Janeiro
+Guadalajara
+Puebla
+Houston
+Dallas
+Austin
+Phoenix
+Philadelphia
+Miami
+Tokyo
+Delhi
+Shanghai
+Sao Paulo
+Cairo
+Mumbai
+Beijing
+Dhaka
+Osaka
+Karachi
+Buenos Aires
+Byzantium
+Kolkata
+Manila
+Lagos
+Kinshasa
+Moscow
+Bogota
+Jakarta
+Lima
+Bangkok
+Seoul
+Tehran
+Hong Kong
+Baghdad
+Riyadh
+Madrid
+Barcelona
+Singapore
+Atlanta
+Johannesburg
+Saint Petersburg
+Alexandria
+Washington D.C.
+Thebes
+Sparta
+Babylon
+Rome
+Fez
+Edinburgh
+Annapolis
+Iowa City
+St Louis
+Pittsburgh

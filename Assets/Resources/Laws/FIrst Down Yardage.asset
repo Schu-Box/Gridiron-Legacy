@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0aeb6bc34d8af478f0172abf05caa3, type: 3}
+  m_Name: FIrst Down Yardage
+  m_EditorClassIdentifier: 
+  id: 0
+  image: {fileID: 21300000, guid: b2c072f940b52be45b821fc4bc494e39, type: 3}
+  buttonString: First Down Yardage
+  descriptionString: Teams must advance this number of yards to reset the <b>downs</b>.
+    Failure to do so within the given number of downs will result in a turnover
+  enacted: 1
+  alwaysEnacted: 1
+  value: 10
+  minValue: 5
+  maxValue: 30
+  changeIncrement: 5
+  startsEnacted: 1
+  startValue: 10

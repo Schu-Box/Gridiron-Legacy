@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0aeb6bc34d8af478f0172abf05caa3, type: 3}
+  m_Name: Downs Allowed
+  m_EditorClassIdentifier: 
+  id: 1
+  image: {fileID: 21300000, guid: d0ca328cb20776a4aaa3e30435da94a1, type: 3}
+  buttonString: Downs Allowed
+  descriptionString: The number of attempts allowed to advance past the required
+    first down yardage
+  enacted: 1
+  alwaysEnacted: 1
+  value: 4
+  minValue: 1
+  maxValue: 8
+  changeIncrement: 1
+  startsEnacted: 1
+  startValue: 4
